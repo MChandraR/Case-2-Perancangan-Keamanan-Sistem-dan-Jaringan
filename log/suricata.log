@@ -1,0 +1,1853 @@
+5/1/2025 -- 09:17:50 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:17:50 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:17:50 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:17:50 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:17:50 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:17:50 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:17:50 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:17:50 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:17:50 - <Info> - opening logfile
+5/1/2025 -- 09:17:50 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:17:50 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:17:50 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:17:50 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:17:50 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:17:50 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:17:50 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:17:50 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:17:50 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:17:50 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:17:50 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:17:50 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 09:18:35 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 09:18:35 - <Info> - time elapsed 45.061s
+5/1/2025 -- 09:18:35 - <Info> - Alerts: 6
+5/1/2025 -- 09:18:35 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 09:18:35 - <Notice> - Stats for 'enp0s3':  pkts: 661, drop: 0 (0.00%), invalid chksum: 0
+5/1/2025 -- 09:20:11 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:20:11 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:20:12 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:20:12 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:20:12 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:20:12 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:20:12 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:20:12 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:20:12 - <Info> - opening logfile
+5/1/2025 -- 09:20:12 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:20:12 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:20:12 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:20:12 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:20:12 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:20:12 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:20:12 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:20:12 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:20:12 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:20:12 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:20:12 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:20:12 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 09:21:29 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 09:21:29 - <Info> - time elapsed 77.749s
+5/1/2025 -- 09:21:30 - <Info> - Alerts: 0
+5/1/2025 -- 09:21:30 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 09:21:30 - <Notice> - Stats for 'enp0s3':  pkts: 271, drop: 0 (0.00%), invalid chksum: 0
+5/1/2025 -- 09:24:38 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:24:38 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:24:38 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:24:38 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:24:38 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:24:38 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:24:38 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:24:38 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:24:38 - <Info> - opening logfile
+5/1/2025 -- 09:24:38 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:24:38 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:24:38 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:24:38 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:24:38 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:24:38 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:24:38 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:24:38 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:24:38 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:24:38 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:24:38 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:24:39 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 09:25:33 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 09:25:33 - <Info> - time elapsed 54.939s
+5/1/2025 -- 09:25:33 - <Info> - Alerts: 0
+5/1/2025 -- 09:25:34 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 09:25:34 - <Notice> - Stats for 'enp0s3':  pkts: 105, drop: 0 (0.00%), invalid chksum: 0
+5/1/2025 -- 09:34:43 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:34:43 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:34:43 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:34:43 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:34:43 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:34:43 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:34:43 - <Info> - opening logfile
+5/1/2025 -- 09:34:43 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:34:43 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:34:43 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:34:43 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:34:43 - <Notice> - Configuration provided was successfully loaded. Exiting.
+5/1/2025 -- 09:34:43 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 09:40:50 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 09:40:50 - <Info> - time elapsed 2766.943s
+5/1/2025 -- 09:40:50 - <Info> - Alerts: 21
+5/1/2025 -- 09:40:50 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 09:40:50 - <Notice> - Stats for 'enp0s3':  pkts: 49797, drop: 3571 (7.17%), invalid chksum: 0
+5/1/2025 -- 09:40:50 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:40:50 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:40:51 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:40:51 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:40:51 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:40:51 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:40:51 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:40:51 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:40:51 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:40:51 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:40:51 - <Info> - opening logfile
+5/1/2025 -- 09:40:51 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:40:51 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:40:51 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:40:51 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:40:51 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:40:51 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:51 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:51 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:51 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:51 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:40:51 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:40:51 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:51 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:51 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:51 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:51 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:40:51 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:40:51 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:40:51 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:40:51 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:40:51 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:40:51 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:40:51 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:40:51 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:40:52 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:40:52 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:40:52 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:40:52 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:40:52 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:40:52 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:40:52 - <Info> - opening logfile
+5/1/2025 -- 09:40:52 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:40:52 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:40:52 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:40:52 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:40:52 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:40:52 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:52 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:52 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:52 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:52 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:40:52 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:40:52 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:52 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:52 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:52 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:52 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:40:52 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:40:52 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:40:52 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:40:52 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:40:52 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:40:52 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:40:52 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:40:52 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:40:53 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:40:53 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:40:53 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:40:53 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:40:53 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:40:53 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:40:53 - <Info> - opening logfile
+5/1/2025 -- 09:40:53 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:40:53 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:40:53 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:40:53 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:40:53 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:40:53 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:40:53 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:40:53 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:40:53 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:40:53 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:40:53 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:40:53 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:40:53 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:40:53 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:40:53 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:40:53 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:40:53 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:40:53 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:40:53 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:40:53 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:40:53 - <Info> - opening logfile
+5/1/2025 -- 09:40:53 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:40:53 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:40:53 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:40:53 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:40:53 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:40:53 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:53 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:40:53 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:40:54 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:40:54 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:40:54 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:40:54 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:40:54 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:40:54 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:40:54 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:40:54 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:40:54 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:40:54 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:40:54 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:40:54 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:40:54 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:40:54 - <Info> - opening logfile
+5/1/2025 -- 09:40:54 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:40:54 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:40:54 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:40:54 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:40:54 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:40:54 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:54 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:54 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:54 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:54 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:40:54 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:40:54 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:54 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:54 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:54 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:40:54 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:40:54 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:40:55 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:40:55 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:40:55 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:41:59 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:41:59 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:41:59 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:41:59 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:41:59 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:41:59 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:41:59 - <Info> - opening logfile
+5/1/2025 -- 09:41:59 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:41:59 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:41:59 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:41:59 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:41:59 - <Notice> - Configuration provided was successfully loaded. Exiting.
+5/1/2025 -- 09:41:59 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 09:43:25 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:43:25 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:43:25 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:43:25 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:43:25 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:43:25 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:43:25 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:43:25 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:43:25 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:43:25 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:43:25 - <Info> - opening logfile
+5/1/2025 -- 09:43:25 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:43:25 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:43:25 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:43:25 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:43:25 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:43:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:25 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:43:25 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:43:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:25 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:43:25 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:43:25 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:43:25 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:43:25 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:43:25 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:43:25 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:43:26 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:43:26 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:43:26 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:43:26 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:43:26 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:43:26 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:43:26 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:43:26 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:43:26 - <Info> - opening logfile
+5/1/2025 -- 09:43:26 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:43:26 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:43:26 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:43:26 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:43:26 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:43:26 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:43:26 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:43:26 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:43:26 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:43:26 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:43:26 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:43:26 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:43:26 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:43:26 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:43:26 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:43:26 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:43:26 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:43:26 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:43:26 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:43:26 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:43:26 - <Info> - opening logfile
+5/1/2025 -- 09:43:26 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:43:26 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:43:26 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:43:26 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:43:26 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:43:26 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:27 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:43:27 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:43:27 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:43:27 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:43:27 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:43:27 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:43:27 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:43:27 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:43:27 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:43:27 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:43:27 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:43:27 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:43:27 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:43:27 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:43:27 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:43:27 - <Info> - opening logfile
+5/1/2025 -- 09:43:27 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:43:27 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:43:27 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:43:27 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:43:27 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:43:27 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:27 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:27 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:27 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:27 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:43:27 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:43:27 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:27 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:27 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:27 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:27 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:43:27 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:43:28 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:43:28 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:43:28 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:43:28 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:43:28 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:43:28 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:43:28 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:43:28 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:43:28 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:43:28 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:43:28 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:43:28 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:43:28 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:43:28 - <Info> - opening logfile
+5/1/2025 -- 09:43:28 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:43:28 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:43:28 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:43:28 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:43:28 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:43:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:28 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:43:28 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:43:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:43:28 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:43:28 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:43:28 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:43:28 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:43:28 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:44:18 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:44:18 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:44:18 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:44:18 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:44:18 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:44:18 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:44:18 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:44:18 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:44:18 - <Info> - opening logfile
+5/1/2025 -- 09:44:18 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:44:18 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:44:18 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:44:18 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:44:18 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:44:18 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:18 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:18 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:18 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:18 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:44:18 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:44:18 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 09:44:22 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 09:44:22 - <Info> - time elapsed 3.450s
+5/1/2025 -- 09:44:22 - <Info> - Alerts: 0
+5/1/2025 -- 09:44:22 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 09:44:22 - <Notice> - Stats for 'enp0s3':  pkts: 4, drop: 0 (0.00%), invalid chksum: 0
+5/1/2025 -- 09:44:43 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:44:43 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:44:43 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:44:43 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:44:43 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:44:43 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:44:43 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:44:43 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:44:43 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:44:43 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:44:43 - <Info> - opening logfile
+5/1/2025 -- 09:44:43 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:44:43 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:44:43 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:44:43 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:44:43 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:44:44 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:44:44 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:44:44 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:44:44 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:44:44 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:44:44 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:44:44 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:44:44 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:44:44 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:44:44 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:44:44 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:44:44 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:44:44 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:44:44 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:44:44 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:44:44 - <Info> - opening logfile
+5/1/2025 -- 09:44:44 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:44:44 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:44:44 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:44:44 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:44:44 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:44:44 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:44 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:44:44 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:44:45 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:44:45 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:44:45 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:44:45 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:44:45 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:44:45 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:44:45 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:44:45 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:44:45 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:44:45 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:44:45 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:44:45 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:44:45 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:44:45 - <Info> - opening logfile
+5/1/2025 -- 09:44:45 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:44:45 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:44:45 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:44:45 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:44:45 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:44:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:45 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:44:45 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:44:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:45 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:44:45 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:44:45 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:44:45 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:44:45 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:44:46 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:44:46 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:44:46 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:44:46 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:44:46 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:44:46 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:44:46 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:44:46 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:44:46 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:44:46 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:44:46 - <Info> - opening logfile
+5/1/2025 -- 09:44:46 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:44:46 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:44:46 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:44:46 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:44:46 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:44:46 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:46 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:46 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:46 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:46 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:44:46 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:44:46 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:46 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:46 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:46 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:46 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:44:46 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:44:46 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:44:46 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:44:46 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:44:47 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:44:47 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:44:47 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:44:47 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:44:47 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:44:47 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+5/1/2025 -- 09:44:47 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:44:47 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:44:47 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:44:47 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:44:47 - <Info> - opening logfile
+5/1/2025 -- 09:44:47 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:44:47 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:44:47 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:44:47 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:44:47 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:44:47 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:47 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:47 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:47 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:47 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find type for iface "eth0": No such device
+5/1/2025 -- 09:44:47 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:44:47 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:47 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:47 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:47 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:44:47 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:44:47 - <Notice> - all 8 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:44:47 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Unable to find iface eth0: No such device
+5/1/2025 -- 09:44:47 - <Error> - [ERRCODE: SC_ERR_AFP_CREATE(190)] - Couldn't init AF_PACKET socket, fatal error
+5/1/2025 -- 09:44:47 - <Error> - [ERRCODE: SC_ERR_FATAL(171)] - thread W#01-eth0 failed
+5/1/2025 -- 09:45:35 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:45:35 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:45:36 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:45:36 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:45:36 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:45:36 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:45:36 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:45:36 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:45:36 - <Info> - opening logfile
+5/1/2025 -- 09:45:36 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:45:36 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:45:36 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:45:36 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:45:36 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:45:36 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:45:36 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:45:36 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:45:36 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:45:36 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:45:36 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:45:36 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 09:47:58 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:47:58 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:47:58 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:47:58 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:47:58 - <Error> - [ERRCODE: SC_ERR_INITIALIZATION(45)] - pid file '/var/run/suricata.pid' exists and Suricata appears to be running. Aborting!
+5/1/2025 -- 09:48:14 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:48:14 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:48:14 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:48:14 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:48:14 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:48:14 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:48:14 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:48:14 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:48:14 - <Info> - opening logfile
+5/1/2025 -- 09:48:14 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:48:14 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:48:14 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:48:14 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:48:15 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:48:15 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:48:15 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:48:15 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:48:15 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:48:15 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:48:15 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:48:15 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 09:49:12 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 09:49:13 - <Info> - time elapsed 58.060s
+5/1/2025 -- 09:49:13 - <Info> - Alerts: 0
+5/1/2025 -- 09:49:13 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 09:49:13 - <Notice> - Stats for 'enp0s3':  pkts: 238, drop: 0 (0.00%), invalid chksum: 0
+5/1/2025 -- 09:53:36 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 09:53:36 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 09:53:36 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:53:36 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 09:53:36 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 09:53:36 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 09:53:36 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 09:53:36 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 09:53:36 - <Info> - opening logfile
+5/1/2025 -- 09:53:36 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 09:53:36 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 09:53:36 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 09:53:36 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 09:53:36 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 09:53:36 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:53:36 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:53:36 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:53:36 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 09:53:36 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 09:53:36 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 09:53:37 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 09:54:40 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 09:54:40 - <Info> - time elapsed 63.271s
+5/1/2025 -- 09:54:40 - <Info> - Alerts: 0
+5/1/2025 -- 09:54:40 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 09:54:40 - <Notice> - Stats for 'enp0s3':  pkts: 2193, drop: 0 (0.00%), invalid chksum: 0
+5/1/2025 -- 10:10:25 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 10:10:25 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 10:10:25 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 10:10:25 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 10:10:25 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 10:10:25 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 10:10:25 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 10:10:25 - <Info> - opening logfile
+5/1/2025 -- 10:10:25 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 10:10:25 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 10:10:25 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 10:10:25 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 10:10:25 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 10:10:25 - <Info> - setting queue length to 4096
+5/1/2025 -- 10:10:25 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 10:10:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:10:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:10:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:10:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:10:25 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 10:10:25 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 10:11:55 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 10:11:56 - <Info> - time elapsed 90.829s
+5/1/2025 -- 10:11:56 - <Notice> - (RX-NFQ#0) Treated: Pkts 2675, Bytes 130705, Errors 0
+5/1/2025 -- 10:11:56 - <Notice> - (RX-NFQ#0) Verdict: Accepted 1824, Dropped 851, Replaced 0
+5/1/2025 -- 10:11:56 - <Info> - Alerts: 98
+5/1/2025 -- 10:11:56 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 10:13:51 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 10:13:51 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 10:13:51 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 10:13:51 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 10:13:51 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 10:13:51 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 10:13:51 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 10:13:51 - <Info> - opening logfile
+5/1/2025 -- 10:13:51 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 10:13:51 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 10:13:51 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 10:13:51 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 10:13:51 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 10:13:51 - <Info> - setting queue length to 4096
+5/1/2025 -- 10:13:51 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 10:13:51 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:13:51 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:13:51 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:13:51 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:13:51 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 10:13:51 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 10:15:50 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 10:15:50 - <Info> - time elapsed 119.129s
+5/1/2025 -- 10:15:51 - <Notice> - (RX-NFQ#0) Treated: Pkts 889, Bytes 44840, Errors 0
+5/1/2025 -- 10:15:51 - <Notice> - (RX-NFQ#0) Verdict: Accepted 612, Dropped 276, Replaced 0
+5/1/2025 -- 10:15:51 - <Info> - Alerts: 30
+5/1/2025 -- 10:15:51 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 10:15:59 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 10:15:59 - <Info> - time elapsed 1823.409s
+5/1/2025 -- 10:16:00 - <Info> - Alerts: 55556
+5/1/2025 -- 10:16:01 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 10:16:01 - <Notice> - Stats for 'enp0s3':  pkts: 545872, drop: 0 (0.00%), invalid chksum: 0
+5/1/2025 -- 10:16:02 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 10:16:02 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 10:16:02 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 10:16:02 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 10:16:02 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 10:16:02 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 10:16:02 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 10:16:02 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 10:16:02 - <Info> - opening logfile
+5/1/2025 -- 10:16:02 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 10:16:02 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 10:16:02 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 10:16:02 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 10:16:02 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 10:16:02 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:16:02 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:16:02 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:16:02 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:16:02 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 10:16:02 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 10:16:02 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 10:16:22 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 10:16:22 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 10:16:22 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 10:16:22 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 10:16:22 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 10:16:22 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 10:16:22 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 10:16:22 - <Info> - opening logfile
+5/1/2025 -- 10:16:22 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 10:16:22 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 10:16:22 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 10:16:22 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 10:16:22 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 10:16:22 - <Info> - setting queue length to 4096
+5/1/2025 -- 10:16:22 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 10:16:22 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:16:22 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:16:22 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:16:22 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:16:22 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 10:16:22 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 10:16:40 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 10:16:40 - <Info> - time elapsed 17.707s
+5/1/2025 -- 10:16:40 - <Notice> - (RX-NFQ#0) Treated: Pkts 235, Bytes 11300, Errors 0
+5/1/2025 -- 10:16:40 - <Notice> - (RX-NFQ#0) Verdict: Accepted 184, Dropped 51, Replaced 0
+5/1/2025 -- 10:16:40 - <Info> - Alerts: 10
+5/1/2025 -- 10:16:40 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 10:16:52 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 10:16:52 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 10:16:53 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 10:16:53 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 10:16:53 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 10:16:53 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 10:16:53 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 10:16:53 - <Info> - opening logfile
+5/1/2025 -- 10:16:53 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 10:16:53 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 10:16:53 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 10:16:53 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 10:16:53 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 10:16:53 - <Info> - setting queue length to 4096
+5/1/2025 -- 10:16:53 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 10:16:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:16:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:16:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:16:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:16:53 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 10:16:53 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 10:17:27 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 10:17:28 - <Info> - time elapsed 35.332s
+5/1/2025 -- 10:17:28 - <Notice> - (RX-NFQ#0) Treated: Pkts 12, Bytes 2294, Errors 0
+5/1/2025 -- 10:17:28 - <Notice> - (RX-NFQ#0) Verdict: Accepted 12, Dropped 0, Replaced 0
+5/1/2025 -- 10:17:28 - <Info> - Alerts: 0
+5/1/2025 -- 10:17:28 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 10:17:29 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 10:17:29 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 10:17:30 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 10:17:30 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 10:17:30 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 10:17:30 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 10:17:30 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 10:17:30 - <Info> - opening logfile
+5/1/2025 -- 10:17:30 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 10:17:30 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 10:17:30 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 10:17:30 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 10:17:30 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 10:17:30 - <Info> - setting queue length to 4096
+5/1/2025 -- 10:17:30 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 10:17:30 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:17:30 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:17:30 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:17:30 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:17:30 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 10:17:30 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 10:17:50 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 10:17:51 - <Info> - time elapsed 20.979s
+5/1/2025 -- 10:17:51 - <Notice> - (RX-NFQ#0) Treated: Pkts 12, Bytes 1642, Errors 0
+5/1/2025 -- 10:17:51 - <Notice> - (RX-NFQ#0) Verdict: Accepted 12, Dropped 0, Replaced 0
+5/1/2025 -- 10:17:51 - <Info> - Alerts: 0
+5/1/2025 -- 10:17:51 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 10:17:53 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 10:17:53 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 10:17:53 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 10:17:53 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 10:17:53 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 10:17:53 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 10:17:53 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 10:17:53 - <Info> - opening logfile
+5/1/2025 -- 10:17:53 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 10:17:53 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 10:17:53 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 10:17:53 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 10:17:53 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 10:17:53 - <Info> - setting queue length to 4096
+5/1/2025 -- 10:17:53 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 10:17:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:17:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:17:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:17:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:17:53 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 10:17:53 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 10:18:37 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 10:18:37 - <Info> - time elapsed 44.531s
+5/1/2025 -- 10:18:37 - <Notice> - (RX-NFQ#0) Treated: Pkts 86, Bytes 25655, Errors 0
+5/1/2025 -- 10:18:37 - <Notice> - (RX-NFQ#0) Verdict: Accepted 86, Dropped 0, Replaced 0
+5/1/2025 -- 10:18:37 - <Info> - Alerts: 0
+5/1/2025 -- 10:18:38 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 10:18:58 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 10:18:58 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 10:18:58 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 10:18:58 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 10:18:58 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 10:18:58 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 10:18:58 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 10:18:58 - <Info> - opening logfile
+5/1/2025 -- 10:18:58 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 10:18:58 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 10:18:58 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 10:18:58 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 10:18:58 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 10:18:58 - <Info> - setting queue length to 4096
+5/1/2025 -- 10:18:58 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 10:18:58 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:18:58 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:18:58 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:18:58 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 10:18:58 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 10:18:58 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 10:20:14 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 10:20:15 - <Info> - time elapsed 76.340s
+5/1/2025 -- 10:20:15 - <Notice> - (RX-NFQ#0) Treated: Pkts 437, Bytes 23616, Errors 0
+5/1/2025 -- 10:20:15 - <Notice> - (RX-NFQ#0) Verdict: Accepted 346, Dropped 91, Replaced 0
+5/1/2025 -- 10:20:15 - <Info> - Alerts: 18
+5/1/2025 -- 10:20:15 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 10:36:28 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 10:36:28 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 10:36:29 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 10:36:29 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 10:36:29 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 10:36:29 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 10:36:29 - <Info> - opening logfile
+5/1/2025 -- 10:36:29 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 10:36:29 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 10:36:29 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 10:36:29 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 10:36:29 - <Notice> - Configuration provided was successfully loaded. Exiting.
+5/1/2025 -- 10:36:29 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 10:36:33 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 10:36:33 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 10:36:33 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 10:36:33 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 10:36:33 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 10:36:33 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 10:36:33 - <Info> - opening logfile
+5/1/2025 -- 10:36:33 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 10:36:33 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 10:36:33 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 10:36:33 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 10:36:33 - <Notice> - Configuration provided was successfully loaded. Exiting.
+5/1/2025 -- 10:36:33 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 14:27:23 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 14:27:23 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 14:27:23 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 14:27:23 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 14:27:24 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 14:27:24 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 14:27:24 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 14:27:24 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 14:27:24 - <Info> - opening logfile
+5/1/2025 -- 14:27:24 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 14:27:24 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 14:27:24 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 14:27:24 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 14:27:24 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 14:27:24 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 14:27:24 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 14:27:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 14:27:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 14:27:25 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 14:27:25 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 14:27:26 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 16:33:18 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:33:18 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:33:18 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:33:19 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:33:19 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:33:19 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:33:19 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:33:19 - <Info> - opening logfile
+5/1/2025 -- 16:33:19 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:33:19 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:33:19 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:33:19 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:33:19 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:33:19 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:33:19 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:33:19 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:33:19 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:33:19 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:33:19 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:33:19 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:33:19 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:34:12 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:34:12 - <Info> - time elapsed 53.546s
+5/1/2025 -- 16:34:12 - <Notice> - (RX-NFQ#0) Treated: Pkts 115, Bytes 13409, Errors 0
+5/1/2025 -- 16:34:12 - <Notice> - (RX-NFQ#0) Verdict: Accepted 115, Dropped 0, Replaced 0
+5/1/2025 -- 16:34:12 - <Info> - Alerts: 0
+5/1/2025 -- 16:34:12 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:34:25 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:34:25 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:34:25 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:34:25 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:34:25 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:34:25 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:34:25 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:34:25 - <Info> - opening logfile
+5/1/2025 -- 16:34:25 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:34:25 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:34:25 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:34:25 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:34:25 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:34:25 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:34:25 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:34:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:34:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:34:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:34:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:34:26 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:34:26 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:34:45 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:34:46 - <Info> - time elapsed 20.066s
+5/1/2025 -- 16:34:46 - <Notice> - (RX-NFQ#0) Treated: Pkts 68, Bytes 10876, Errors 0
+5/1/2025 -- 16:34:46 - <Notice> - (RX-NFQ#0) Verdict: Accepted 60, Dropped 8, Replaced 0
+5/1/2025 -- 16:34:46 - <Info> - Alerts: 0
+5/1/2025 -- 16:34:46 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:34:48 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:34:48 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:34:48 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:34:48 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:34:48 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:34:48 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:34:48 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:34:48 - <Info> - opening logfile
+5/1/2025 -- 16:34:48 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:34:48 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:34:48 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:34:48 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:34:48 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:34:48 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:34:48 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:34:48 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:34:48 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:34:48 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:34:48 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:34:48 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:34:48 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:35:28 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:35:29 - <Info> - time elapsed 40.722s
+5/1/2025 -- 16:35:29 - <Notice> - (RX-NFQ#0) Treated: Pkts 214, Bytes 67602, Errors 0
+5/1/2025 -- 16:35:29 - <Notice> - (RX-NFQ#0) Verdict: Accepted 207, Dropped 7, Replaced 0
+5/1/2025 -- 16:35:29 - <Info> - Alerts: 0
+5/1/2025 -- 16:35:29 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:36:49 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:36:49 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:36:49 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:36:49 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:36:49 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:36:49 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:36:49 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:36:49 - <Info> - opening logfile
+5/1/2025 -- 16:36:49 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:36:49 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:36:49 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:36:49 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:36:49 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:36:49 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:36:49 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:36:49 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:36:49 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:36:49 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:36:49 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:36:49 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:36:49 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:37:07 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:37:07 - <Info> - time elapsed 18.554s
+5/1/2025 -- 16:37:07 - <Notice> - (RX-NFQ#0) Treated: Pkts 164, Bytes 30119, Errors 0
+5/1/2025 -- 16:37:07 - <Notice> - (RX-NFQ#0) Verdict: Accepted 164, Dropped 0, Replaced 0
+5/1/2025 -- 16:37:07 - <Info> - Alerts: 0
+5/1/2025 -- 16:37:07 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:37:09 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:37:09 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:37:09 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:37:09 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:37:09 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:37:09 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:37:09 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:37:09 - <Info> - opening logfile
+5/1/2025 -- 16:37:09 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:37:09 - <Info> - 2 rule files processed. 56 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:37:09 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:37:09 - <Info> - 56 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:37:09 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:37:09 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:37:09 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:37:09 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:37:09 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:37:09 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:37:09 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:37:09 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:37:09 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:48:11 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:48:12 - <Info> - time elapsed 662.970s
+5/1/2025 -- 16:48:12 - <Notice> - (RX-NFQ#0) Treated: Pkts 1163, Bytes 207063, Errors 0
+5/1/2025 -- 16:48:12 - <Notice> - (RX-NFQ#0) Verdict: Accepted 1098, Dropped 65, Replaced 0
+5/1/2025 -- 16:48:12 - <Info> - Alerts: 2
+5/1/2025 -- 16:48:12 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:48:18 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:48:18 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:48:18 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:48:18 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:48:18 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:48:18 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:48:18 - <Info> - opening logfile
+5/1/2025 -- 16:48:18 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:48:18 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:48:18 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:48:18 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:48:18 - <Notice> - Configuration provided was successfully loaded. Exiting.
+5/1/2025 -- 16:48:18 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:48:21 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:48:21 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:48:21 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:48:21 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:48:21 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:48:21 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:48:21 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:48:21 - <Info> - opening logfile
+5/1/2025 -- 16:48:21 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:48:21 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:48:21 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:48:21 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:48:21 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:48:21 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:48:21 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:48:21 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:48:21 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:48:21 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:48:21 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:48:21 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:48:21 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:48:56 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:48:56 - <Info> - time elapsed 35.086s
+5/1/2025 -- 16:48:56 - <Notice> - (RX-NFQ#0) Treated: Pkts 95, Bytes 9578, Errors 0
+5/1/2025 -- 16:48:56 - <Notice> - (RX-NFQ#0) Verdict: Accepted 94, Dropped 0, Replaced 0
+5/1/2025 -- 16:48:56 - <Info> - Alerts: 0
+5/1/2025 -- 16:48:57 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:49:06 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:49:06 - <Info> - time elapsed 8502.069s
+5/1/2025 -- 16:49:07 - <Info> - Alerts: 125
+5/1/2025 -- 16:49:08 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:49:08 - <Notice> - Stats for 'enp0s3':  pkts: 640264, drop: 932 (0.15%), invalid chksum: 0
+5/1/2025 -- 16:49:08 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:49:08 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:49:08 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 16:49:08 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 16:49:09 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:49:09 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:49:09 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:49:09 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:49:09 - <Info> - opening logfile
+5/1/2025 -- 16:49:09 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:49:09 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:49:09 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:49:09 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:49:09 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 16:49:09 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:49:09 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:49:09 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:49:09 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:49:09 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:49:09 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:49:09 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 16:50:09 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:50:09 - <Info> - time elapsed 60.495s
+5/1/2025 -- 16:50:09 - <Info> - Alerts: 0
+5/1/2025 -- 16:50:10 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:50:10 - <Notice> - Stats for 'enp0s3':  pkts: 800, drop: 0 (0.00%), invalid chksum: 0
+5/1/2025 -- 16:50:10 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:50:10 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:50:10 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 16:50:10 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 16:50:10 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:50:10 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:50:10 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:50:10 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:50:10 - <Info> - opening logfile
+5/1/2025 -- 16:50:10 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:50:10 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:50:10 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:50:10 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:50:10 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 16:50:10 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:50:10 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:50:10 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:50:10 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:50:10 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:50:10 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:50:10 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 16:50:36 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:50:36 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:50:36 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:50:36 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:50:36 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:50:36 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:50:36 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:50:36 - <Info> - opening logfile
+5/1/2025 -- 16:50:36 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:50:36 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:50:36 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:50:36 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:50:36 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:50:36 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:50:36 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:50:37 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:50:37 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:50:37 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:50:37 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:50:37 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:50:37 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:53:21 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:53:21 - <Info> - time elapsed 164.355s
+5/1/2025 -- 16:53:21 - <Notice> - (RX-NFQ#0) Treated: Pkts 468, Bytes 68078, Errors 0
+5/1/2025 -- 16:53:21 - <Notice> - (RX-NFQ#0) Verdict: Accepted 465, Dropped 3, Replaced 0
+5/1/2025 -- 16:53:21 - <Info> - Alerts: 0
+5/1/2025 -- 16:53:21 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:54:20 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:54:20 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:54:20 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:54:20 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:54:20 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:54:20 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:54:20 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:54:20 - <Info> - opening logfile
+5/1/2025 -- 16:54:20 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:54:20 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:54:20 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:54:20 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:54:20 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:54:20 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:54:20 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:54:20 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:54:20 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:54:20 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:54:20 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:54:20 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:54:20 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:54:48 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:54:48 - <Info> - time elapsed 28.230s
+5/1/2025 -- 16:54:48 - <Notice> - (RX-NFQ#0) Treated: Pkts 79, Bytes 8416, Errors 0
+5/1/2025 -- 16:54:48 - <Notice> - (RX-NFQ#0) Verdict: Accepted 75, Dropped 3, Replaced 0
+5/1/2025 -- 16:54:48 - <Info> - Alerts: 0
+5/1/2025 -- 16:54:49 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:54:53 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:54:53 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:54:53 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:54:53 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:54:53 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:54:53 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:54:53 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:54:53 - <Info> - opening logfile
+5/1/2025 -- 16:54:53 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:54:53 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:54:53 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:54:53 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:54:53 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:54:53 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:54:53 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:54:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:54:53 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:54:54 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:54:54 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:54:54 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:54:54 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:57:02 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:57:03 - <Info> - time elapsed 130.031s
+5/1/2025 -- 16:57:04 - <Notice> - (RX-NFQ#0) Treated: Pkts 210, Bytes 31403, Errors 0
+5/1/2025 -- 16:57:04 - <Notice> - (RX-NFQ#0) Verdict: Accepted 200, Dropped 10, Replaced 0
+5/1/2025 -- 16:57:04 - <Info> - Alerts: 0
+5/1/2025 -- 16:57:04 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:57:09 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:57:09 - <Info> - time elapsed 419.369s
+5/1/2025 -- 16:57:09 - <Info> - Alerts: 3
+5/1/2025 -- 16:57:10 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:57:10 - <Notice> - Stats for 'enp0s3':  pkts: 7215, drop: 0 (0.00%), invalid chksum: 0
+5/1/2025 -- 16:57:10 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:57:10 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:57:10 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 16:57:10 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 16:57:10 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:57:10 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:57:10 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:57:10 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:57:10 - <Info> - opening logfile
+5/1/2025 -- 16:57:10 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:57:10 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:57:10 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:57:10 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:57:10 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 16:57:10 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:57:10 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:57:10 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:57:10 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:57:10 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:57:10 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:57:10 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 16:57:24 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:57:24 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:57:24 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:57:24 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:57:24 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:57:24 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:57:24 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:57:24 - <Info> - opening logfile
+5/1/2025 -- 16:57:24 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:57:24 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:57:24 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:57:24 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:57:24 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:57:24 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:57:24 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:57:24 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:57:24 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:57:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:57:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:57:25 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:57:25 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:58:40 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:58:40 - <Info> - time elapsed 75.863s
+5/1/2025 -- 16:58:40 - <Notice> - (RX-NFQ#0) Treated: Pkts 222, Bytes 34279, Errors 0
+5/1/2025 -- 16:58:40 - <Notice> - (RX-NFQ#0) Verdict: Accepted 222, Dropped 0, Replaced 0
+5/1/2025 -- 16:58:40 - <Info> - Alerts: 0
+5/1/2025 -- 16:58:41 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:58:46 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:58:46 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:58:46 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:58:46 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:58:46 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:58:46 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:58:46 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:58:46 - <Info> - opening logfile
+5/1/2025 -- 16:58:46 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:58:46 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:58:46 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:58:46 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:58:46 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:58:46 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:58:46 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:58:46 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:58:46 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:58:46 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:58:46 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:58:46 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:58:46 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:59:00 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:59:00 - <Info> - time elapsed 14.285s
+5/1/2025 -- 16:59:00 - <Notice> - (RX-NFQ#0) Treated: Pkts 29, Bytes 3507, Errors 0
+5/1/2025 -- 16:59:00 - <Notice> - (RX-NFQ#0) Verdict: Accepted 29, Dropped 0, Replaced 0
+5/1/2025 -- 16:59:00 - <Info> - Alerts: 0
+5/1/2025 -- 16:59:01 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:59:24 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:59:24 - <Info> - time elapsed 133.720s
+5/1/2025 -- 16:59:24 - <Info> - Alerts: 0
+5/1/2025 -- 16:59:24 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:59:24 - <Notice> - Stats for 'enp0s3':  pkts: 2423, drop: 0 (0.00%), invalid chksum: 0
+5/1/2025 -- 16:59:24 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:59:24 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:59:24 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 16:59:24 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 16:59:24 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:59:24 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:59:24 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:59:24 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:59:24 - <Info> - opening logfile
+5/1/2025 -- 16:59:24 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:59:24 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:59:24 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:59:24 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:59:24 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 16:59:24 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:59:24 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:59:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:59:25 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:59:25 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:59:25 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:59:25 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 16:59:33 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:59:33 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:59:33 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:59:33 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:59:33 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:59:33 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:59:33 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:59:33 - <Info> - opening logfile
+5/1/2025 -- 16:59:33 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:59:33 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:59:33 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:59:33 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:59:33 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:59:33 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:59:33 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:59:33 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:59:33 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:59:34 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:59:34 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:59:34 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:59:34 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 16:59:42 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 16:59:42 - <Info> - time elapsed 9.070s
+5/1/2025 -- 16:59:42 - <Notice> - (RX-NFQ#0) Treated: Pkts 85, Bytes 10127, Errors 0
+5/1/2025 -- 16:59:42 - <Notice> - (RX-NFQ#0) Verdict: Accepted 85, Dropped 0, Replaced 0
+5/1/2025 -- 16:59:43 - <Info> - Alerts: 0
+5/1/2025 -- 16:59:43 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 16:59:44 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 16:59:44 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 16:59:45 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 16:59:45 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 16:59:45 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 16:59:45 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 16:59:45 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 16:59:45 - <Info> - opening logfile
+5/1/2025 -- 16:59:45 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 16:59:45 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 16:59:45 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 16:59:45 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 16:59:45 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 16:59:45 - <Info> - setting queue length to 4096
+5/1/2025 -- 16:59:45 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 16:59:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:59:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:59:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:59:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 16:59:45 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 16:59:45 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 17:00:05 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 17:00:05 - <Info> - time elapsed 20.744s
+5/1/2025 -- 17:00:05 - <Notice> - (RX-NFQ#0) Treated: Pkts 35, Bytes 5076, Errors 0
+5/1/2025 -- 17:00:05 - <Notice> - (RX-NFQ#0) Verdict: Accepted 26, Dropped 9, Replaced 0
+5/1/2025 -- 17:00:05 - <Info> - Alerts: 0
+5/1/2025 -- 17:00:06 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 17:01:41 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 17:01:41 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 17:01:41 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 17:01:41 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 17:01:41 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 17:01:41 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 17:01:41 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 17:01:41 - <Info> - opening logfile
+5/1/2025 -- 17:01:41 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 17:01:41 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 17:01:41 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 17:01:41 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 17:01:41 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 17:01:41 - <Info> - setting queue length to 4096
+5/1/2025 -- 17:01:41 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 17:01:41 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:01:41 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:01:41 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:01:41 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:01:42 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 17:01:42 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 17:09:54 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 17:09:55 - <Info> - time elapsed 493.464s
+5/1/2025 -- 17:09:55 - <Notice> - (RX-NFQ#0) Treated: Pkts 1641, Bytes 182970, Errors 0
+5/1/2025 -- 17:09:55 - <Notice> - (RX-NFQ#0) Verdict: Accepted 1346, Dropped 295, Replaced 0
+5/1/2025 -- 17:09:55 - <Info> - Alerts: 20
+5/1/2025 -- 17:09:55 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 17:09:57 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 17:09:57 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 17:09:57 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 17:09:57 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 17:09:57 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 17:09:57 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 17:09:57 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 17:09:57 - <Info> - opening logfile
+5/1/2025 -- 17:09:57 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 17:09:57 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 17:09:57 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 17:09:57 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 17:09:57 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 17:09:57 - <Info> - setting queue length to 4096
+5/1/2025 -- 17:09:57 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 17:09:57 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:09:57 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:09:57 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:09:57 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:09:57 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 17:09:57 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 17:12:54 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 17:12:55 - <Info> - time elapsed 177.728s
+5/1/2025 -- 17:12:55 - <Notice> - (RX-NFQ#0) Treated: Pkts 6, Bytes 710, Errors 0
+5/1/2025 -- 17:12:55 - <Notice> - (RX-NFQ#0) Verdict: Accepted 6, Dropped 0, Replaced 0
+5/1/2025 -- 17:12:55 - <Info> - Alerts: 0
+5/1/2025 -- 17:12:55 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 17:13:01 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 17:13:01 - <Info> - time elapsed 816.664s
+5/1/2025 -- 17:13:01 - <Info> - Alerts: 38
+5/1/2025 -- 17:13:01 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 17:13:01 - <Notice> - Stats for 'enp0s3':  pkts: 26074, drop: 3123 (11.98%), invalid chksum: 0
+5/1/2025 -- 17:13:29 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 17:13:29 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 17:13:29 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 17:13:29 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 17:13:29 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 17:13:29 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 17:13:29 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 17:13:29 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 17:13:29 - <Info> - opening logfile
+5/1/2025 -- 17:13:29 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 17:13:29 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 17:13:29 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 17:13:29 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 17:13:29 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 17:13:29 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:13:29 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:13:29 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:13:29 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:13:29 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 17:13:29 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 17:13:29 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 17:13:36 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 17:13:36 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 17:13:36 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 17:13:36 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 17:13:36 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 17:13:36 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 17:13:36 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 17:13:36 - <Info> - opening logfile
+5/1/2025 -- 17:13:36 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 17:13:36 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 17:13:36 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 17:13:36 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 17:13:36 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 17:13:36 - <Info> - setting queue length to 4096
+5/1/2025 -- 17:13:36 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 17:13:36 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:13:36 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:13:36 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:13:36 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:13:36 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 17:13:36 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 17:14:49 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 17:14:49 - <Info> - time elapsed 73.359s
+5/1/2025 -- 17:14:49 - <Notice> - (RX-NFQ#0) Treated: Pkts 227, Bytes 13959, Errors 0
+5/1/2025 -- 17:14:49 - <Notice> - (RX-NFQ#0) Verdict: Accepted 170, Dropped 57, Replaced 0
+5/1/2025 -- 17:14:49 - <Info> - Alerts: 6
+5/1/2025 -- 17:14:49 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 17:15:00 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 17:15:00 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 17:15:00 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 17:15:00 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 17:15:00 - <Info> - eve-log output device (regular) initialized: eve.json
+5/1/2025 -- 17:15:00 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 17:15:00 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 17:15:00 - <Info> - opening logfile
+5/1/2025 -- 17:15:00 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 17:15:00 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 17:15:00 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 17:15:00 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 17:15:00 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 17:15:00 - <Info> - setting queue length to 4096
+5/1/2025 -- 17:15:00 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 17:15:00 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:15:00 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:15:00 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:15:00 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:15:00 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 17:15:00 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 17:16:19 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 17:16:20 - <Info> - time elapsed 79.987s
+5/1/2025 -- 17:16:20 - <Notice> - (RX-NFQ#0) Treated: Pkts 257, Bytes 12540, Errors 0
+5/1/2025 -- 17:16:20 - <Notice> - (RX-NFQ#0) Verdict: Accepted 173, Dropped 83, Replaced 0
+5/1/2025 -- 17:16:20 - <Info> - Alerts: 8
+5/1/2025 -- 17:16:20 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 17:16:26 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 17:16:26 - <Info> - time elapsed 177.441s
+5/1/2025 -- 17:16:26 - <Info> - Alerts: 14
+5/1/2025 -- 17:16:27 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 17:16:27 - <Notice> - Stats for 'enp0s3':  pkts: 1442, drop: 0 (0.00%), invalid chksum: 0
+5/1/2025 -- 17:17:02 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 17:17:02 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 17:17:02 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 17:17:02 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 17:17:02 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 17:17:02 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 17:17:02 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 17:17:02 - <Info> - opening logfile
+5/1/2025 -- 17:17:02 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 17:17:02 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 17:17:02 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 17:17:02 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 17:17:02 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 17:17:02 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:17:02 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:17:02 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:17:02 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:17:02 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 17:17:02 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 17:17:02 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 17:17:08 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 17:17:08 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 17:17:08 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 17:17:08 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 17:17:08 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 17:17:08 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 17:17:08 - <Info> - opening logfile
+5/1/2025 -- 17:17:08 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 17:17:08 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 17:17:08 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 17:17:08 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 17:17:08 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 17:17:08 - <Info> - setting queue length to 4096
+5/1/2025 -- 17:17:08 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 17:17:08 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:17:08 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:17:08 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:17:08 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:17:08 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 17:17:08 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 17:18:08 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 17:18:08 - <Info> - time elapsed 59.936s
+5/1/2025 -- 17:18:08 - <Notice> - (RX-NFQ#0) Treated: Pkts 69, Bytes 7810, Errors 0
+5/1/2025 -- 17:18:08 - <Notice> - (RX-NFQ#0) Verdict: Accepted 69, Dropped 0, Replaced 0
+5/1/2025 -- 17:18:08 - <Info> - Alerts: 0
+5/1/2025 -- 17:18:08 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 17:18:12 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 17:18:12 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 17:18:12 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 17:18:12 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 17:18:12 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 17:18:12 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 17:18:12 - <Info> - opening logfile
+5/1/2025 -- 17:18:12 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 17:18:12 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 17:18:12 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 17:18:12 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 17:18:12 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 17:18:12 - <Info> - setting queue length to 4096
+5/1/2025 -- 17:18:12 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 17:18:12 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:18:12 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:18:12 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:18:12 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:18:12 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 17:18:12 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 17:18:32 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 17:18:33 - <Info> - time elapsed 20.660s
+5/1/2025 -- 17:18:33 - <Notice> - (RX-NFQ#0) Treated: Pkts 4, Bytes 160, Errors 0
+5/1/2025 -- 17:18:33 - <Notice> - (RX-NFQ#0) Verdict: Accepted 1, Dropped 3, Replaced 0
+5/1/2025 -- 17:18:33 - <Info> - Alerts: 0
+5/1/2025 -- 17:18:33 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 17:18:36 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 17:18:37 - <Info> - time elapsed 94.477s
+5/1/2025 -- 17:18:37 - <Info> - Alerts: 0
+5/1/2025 -- 17:18:37 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 17:18:37 - <Notice> - Stats for 'enp0s3':  pkts: 473, drop: 0 (0.00%), invalid chksum: 0
+5/1/2025 -- 17:18:41 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 17:18:41 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 17:18:41 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 17:18:41 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 17:18:41 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 17:18:41 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 17:18:41 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 17:18:41 - <Info> - opening logfile
+5/1/2025 -- 17:18:41 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 17:18:41 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 17:18:41 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 17:18:41 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 17:18:41 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 17:18:41 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:18:41 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:18:41 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:18:41 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:18:41 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 17:18:41 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 17:18:41 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 17:18:44 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 17:18:44 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 17:18:44 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 17:18:44 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 17:18:44 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 17:18:44 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 17:18:44 - <Info> - opening logfile
+5/1/2025 -- 17:18:44 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 17:18:44 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 17:18:44 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 17:18:44 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 17:18:44 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 17:18:44 - <Info> - setting queue length to 4096
+5/1/2025 -- 17:18:44 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 17:18:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:18:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:18:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:18:44 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:18:44 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 17:18:44 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 17:23:40 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 17:23:41 - <Info> - time elapsed 296.802s
+5/1/2025 -- 17:23:41 - <Notice> - (RX-NFQ#0) Treated: Pkts 1596, Bytes 78464, Errors 0
+5/1/2025 -- 17:23:41 - <Notice> - (RX-NFQ#0) Verdict: Accepted 1055, Dropped 541, Replaced 0
+5/1/2025 -- 17:23:41 - <Info> - Alerts: 56
+5/1/2025 -- 17:23:41 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 17:24:28 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 17:24:28 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 17:24:28 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 17:24:28 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 17:24:28 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 17:24:28 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 17:24:28 - <Info> - opening logfile
+5/1/2025 -- 17:24:28 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 17:24:28 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 17:24:28 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 17:24:28 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 17:24:28 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 17:24:28 - <Info> - setting queue length to 4096
+5/1/2025 -- 17:24:28 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 17:24:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:24:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:24:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:24:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 17:24:28 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 17:24:28 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 20:11:26 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 20:11:26 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 20:11:26 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 20:11:26 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 20:11:27 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 20:11:27 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 20:11:27 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 20:11:27 - <Info> - opening logfile
+5/1/2025 -- 20:11:27 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 20:11:27 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 20:11:27 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 20:11:27 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 20:11:27 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 20:11:27 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:11:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:11:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:11:28 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:11:28 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 20:11:28 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 20:11:28 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 20:25:59 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 20:25:59 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 20:25:59 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 20:25:59 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 20:25:59 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 20:25:59 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 20:25:59 - <Info> - opening logfile
+5/1/2025 -- 20:25:59 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 20:26:00 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 20:26:00 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 20:26:00 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 20:26:00 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 20:26:00 - <Info> - setting queue length to 4096
+5/1/2025 -- 20:26:00 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 20:26:00 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:26:00 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:26:00 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:26:00 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:26:00 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 20:26:00 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 20:45:40 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 20:45:40 - <Info> - time elapsed 1180.729s
+5/1/2025 -- 20:45:40 - <Notice> - (RX-NFQ#0) Treated: Pkts 543, Bytes 39491, Errors 0
+5/1/2025 -- 20:45:40 - <Notice> - (RX-NFQ#0) Verdict: Accepted 416, Dropped 127, Replaced 0
+5/1/2025 -- 20:45:40 - <Info> - Alerts: 12
+5/1/2025 -- 20:45:41 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 20:46:25 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 20:46:25 - <Info> - time elapsed 2097.662s
+5/1/2025 -- 20:46:25 - <Info> - Alerts: 90
+5/1/2025 -- 20:46:26 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 20:46:26 - <Notice> - Stats for 'enp0s3':  pkts: 194397, drop: 186 (0.10%), invalid chksum: 0
+5/1/2025 -- 20:46:26 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 20:46:26 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 20:46:26 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 20:46:26 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 20:46:26 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 20:46:26 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 20:46:26 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 20:46:26 - <Info> - opening logfile
+5/1/2025 -- 20:46:26 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 20:46:26 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 20:46:26 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 20:46:26 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 20:46:26 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 20:46:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:46:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:46:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:46:26 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:46:26 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 20:46:26 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 20:46:27 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 20:46:38 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 20:46:38 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 20:46:38 - <Info> - NFQ running in standard ACCEPT/DROP mode
+5/1/2025 -- 20:46:38 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 20:46:38 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 20:46:38 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 20:46:38 - <Info> - opening logfile
+5/1/2025 -- 20:46:38 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 20:46:38 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 20:46:38 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 20:46:38 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 20:46:38 - <Info> - binding this thread 0 to queue '0'
+5/1/2025 -- 20:46:38 - <Info> - setting queue length to 4096
+5/1/2025 -- 20:46:38 - <Info> - setting nfnl bufsize to 6144000
+5/1/2025 -- 20:46:38 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:46:38 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:46:38 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:46:38 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 20:46:38 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 20:46:38 - <Notice> - all 6 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 22:30:56 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 22:30:57 - <Info> - time elapsed 6270.455s
+5/1/2025 -- 22:30:57 - <Info> - Alerts: 94
+5/1/2025 -- 22:30:58 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 22:30:58 - <Notice> - Stats for 'enp0s3':  pkts: 518640, drop: 14728 (2.84%), invalid chksum: 0
+5/1/2025 -- 22:31:23 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 22:31:23 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 22:31:23 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 22:31:23 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 22:31:23 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 22:31:23 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 22:31:23 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 22:31:23 - <Info> - opening logfile
+5/1/2025 -- 22:31:23 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 22:31:23 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 22:31:23 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 22:31:23 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 22:31:24 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 22:31:24 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 22:31:24 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 22:31:24 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 22:31:24 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 22:31:24 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 22:31:24 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 22:31:24 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 22:41:14 - <Notice> - Signal Received.  Stopping engine.
+5/1/2025 -- 22:41:14 - <Info> - time elapsed 590.539s
+5/1/2025 -- 22:41:15 - <Info> - Alerts: 12
+5/1/2025 -- 22:41:16 - <Info> - cleaning up signature grouping structure... complete
+5/1/2025 -- 22:41:16 - <Notice> - Stats for 'enp0s3':  pkts: 20705, drop: 2529 (12.21%), invalid chksum: 0
+5/1/2025 -- 22:42:45 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 22:42:45 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 22:42:45 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 22:42:45 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 22:42:45 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 22:42:45 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 22:42:45 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 22:42:45 - <Info> - opening logfile
+5/1/2025 -- 22:42:45 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 22:42:45 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 22:42:45 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 22:42:45 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 22:42:45 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 22:42:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 22:42:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 22:42:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 22:42:45 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 22:42:45 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 22:42:45 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 22:42:45 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 22:48:46 - <Notice> - This is Suricata version 6.0.4 RELEASE running in SYSTEM mode
+5/1/2025 -- 22:48:46 - <Info> - CPUs/cores online: 4
+5/1/2025 -- 22:48:47 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 22:48:47 - <Info> - Found an MTU of 1500 for 'enp0s3'
+5/1/2025 -- 22:48:47 - <Info> - fast output device (regular) initialized: fast.log
+5/1/2025 -- 22:48:47 - <Info> - http-log output device (regular) initialized: http.log
+5/1/2025 -- 22:48:47 - <Info> - stats output device (regular) initialized: stats.log
+5/1/2025 -- 22:48:47 - <Info> - opening logfile
+5/1/2025 -- 22:48:47 - <Info> - tcp-data output device (regular) initialized: tcp-data.log
+5/1/2025 -- 22:48:47 - <Info> - 2 rule files processed. 58 rules successfully loaded, 0 rules failed
+5/1/2025 -- 22:48:47 - <Info> - Threshold config parsed: 0 rule(s) found
+5/1/2025 -- 22:48:47 - <Info> - 58 signatures processed. 2 are IP-only rules, 2 are inspecting packet payload, 52 inspect application layer, 0 are decoder event only
+5/1/2025 -- 22:48:47 - <Info> - Going to use 4 thread(s)
+5/1/2025 -- 22:48:47 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 22:48:47 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 22:48:47 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 22:48:47 - <Info> - LogTcpDataLog is now set up
+5/1/2025 -- 22:48:47 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+5/1/2025 -- 22:48:47 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+5/1/2025 -- 22:48:47 - <Info> - All AFP capture threads are running.
+5/1/2025 -- 23:31:48 - <Error> - [ERRCODE: SC_ERR_LOG_OUTPUT(335)] - No space left on device error while writing to /var/log/suricata//tcp-data.log
+5/1/2025 -- 23:31:55 - <Error> - [ERRCODE: SC_ERR_LOG_OUTPUT(335)] - No space left on device error while writing to /var/log/suricata//stats.log

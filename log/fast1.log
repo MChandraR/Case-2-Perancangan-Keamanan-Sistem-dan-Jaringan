@@ -1,0 +1,130 @@
+01/04/2025-11:15:32.646751  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21085 -> 192.168.1.9:80
+01/04/2025-11:15:33.065181  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21085 -> 192.168.1.9:80
+01/04/2025-11:15:33.236216  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21085 -> 192.168.1.9:80
+01/04/2025-11:15:33.379805  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21085 -> 192.168.1.9:80
+01/04/2025-11:15:44.907213  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:45.519562  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:45.690520  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:45.888289  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:46.068905  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:46.271139  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:46.454786  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:46.636384  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:46.818107  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:47.000310  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:47.169291  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:47.369717  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:47.518803  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:15:47.656831  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:21099 -> 192.168.1.9:80
+01/04/2025-11:16:25.828610  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:21195 -> 2404:6800:4003:0c05:0000:0000:0000:0077:443
+01/04/2025-11:16:29.618418  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:21267 -> 2001:4488:f112:1023:0000:0000:0000:000c:443
+01/04/2025-11:16:57.078501  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:21490 -> 2001:4488:f112:1022:0000:0000:0000:000f:443
+01/04/2025-11:19:05.805040  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:21780 -> 2404:6800:4003:0c03:0000:0000:0000:005f:443
+01/04/2025-11:19:07.434973  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:21829 -> 2404:6800:4003:0c00:0000:0000:0000:005f:443
+01/04/2025-13:19:05.063756  [**] [1:1000002:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.5:54804 -> 8.8.8.8:53
+01/04/2025-13:19:05.450906  [**] [1:1000002:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {UDP} 8.8.8.8:53 -> 192.168.1.5:57597
+01/04/2025-14:07:05.636202  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:28746 -> 2404:6800:4003:0c01:0000:0000:0000:005e:443
+01/04/2025-14:08:14.291590  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:28875 -> 2404:6800:4003:0c0f:0000:0000:0000:008a:443
+01/04/2025-14:13:55.042377  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:29617 -> 2404:6800:4003:0c0f:0000:0000:0000:005f:443
+01/04/2025-14:14:04.935535  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:29689 -> 2404:6800:4003:0c04:0000:0000:0000:005f:443
+01/04/2025-14:14:08.554243  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:29753 -> 2a06:98c1:0052:0000:0000:0000:0000:0003:443
+01/04/2025-14:47:38.926885  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:31472 -> 2404:6800:4003:0c11:0000:0000:0000:0084:443
+01/04/2025-14:47:38.926885  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:31472 -> 2404:6800:4003:0c11:0000:0000:0000:0084:443
+01/04/2025-14:49:03.669868  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:31573 -> 2404:6800:4003:0c01:0000:0000:0000:0077:443
+01/04/2025-14:49:03.669868  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:31573 -> 2404:6800:4003:0c01:0000:0000:0000:0077:443
+01/04/2025-14:49:04.037250  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:31591 -> 74.125.68.132:443
+01/04/2025-14:49:04.037250  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:31591 -> 74.125.68.132:443
+01/04/2025-14:51:12.880965  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:31828 -> 2404:6800:4003:0c0f:0000:0000:0000:0077:443
+01/04/2025-14:51:12.880965  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:31828 -> 2404:6800:4003:0c0f:0000:0000:0000:0077:443
+01/04/2025-14:51:18.360782  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:31864 -> 2404:6800:4003:0c02:0000:0000:0000:005d:443
+01/04/2025-14:51:18.360782  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:31864 -> 2404:6800:4003:0c02:0000:0000:0000:005d:443
+01/04/2025-14:51:18.662690  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:31869 -> 74.125.24.93:443
+01/04/2025-14:51:18.662690  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:31869 -> 74.125.24.93:443
+01/04/2025-14:52:11.379686  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:31988 -> 2404:6800:4003:0c05:0000:0000:0000:0064:443
+01/04/2025-14:52:11.379686  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:31988 -> 2404:6800:4003:0c05:0000:0000:0000:0064:443
+01/04/2025-14:52:13.725198  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:32006 -> 2404:6800:4003:0c05:0000:0000:0000:0084:443
+01/04/2025-14:52:13.725198  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:32006 -> 2404:6800:4003:0c05:0000:0000:0000:0084:443
+01/04/2025-14:52:14.279841  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32021 -> 74.125.130.132:443
+01/04/2025-14:52:14.279841  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32021 -> 74.125.130.132:443
+01/04/2025-14:53:03.133218  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32128 -> 192.168.1.9:80
+01/04/2025-14:53:04.737106  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32128 -> 192.168.1.9:80
+01/04/2025-14:53:31.262406  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:32149 -> 2404:6800:4003:0c03:0000:0000:0000:005b:443
+01/04/2025-14:53:31.262406  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 2001:448a:1022:5918:2d64:603d:a10a:fec0:32149 -> 2404:6800:4003:0c03:0000:0000:0000:005b:443
+01/04/2025-14:53:31.734945  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32164 -> 142.251.10.119:443
+01/04/2025-14:53:31.734945  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32164 -> 142.251.10.119:443
+01/04/2025-14:54:51.034893  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32277 -> 192.168.1.9:80
+01/04/2025-14:54:51.034893  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32277 -> 192.168.1.9:80
+01/04/2025-14:54:51.094976  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32295 -> 192.168.1.9:80
+01/04/2025-14:54:51.094976  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32295 -> 192.168.1.9:80
+01/04/2025-14:54:52.054240  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32597 -> 192.168.1.9:80
+01/04/2025-14:54:52.054240  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32597 -> 192.168.1.9:80
+01/04/2025-14:54:52.030092  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32589 -> 192.168.1.9:80
+01/04/2025-14:54:52.030092  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32589 -> 192.168.1.9:80
+01/04/2025-14:55:05.127863  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32647 -> 192.168.1.9:80
+01/04/2025-14:55:05.127863  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32647 -> 192.168.1.9:80
+01/04/2025-14:55:05.291395  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32654 -> 192.168.1.9:80
+01/04/2025-14:55:05.291395  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32654 -> 192.168.1.9:80
+01/04/2025-14:55:06.108112  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32688 -> 192.168.1.9:80
+01/04/2025-14:55:06.108112  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32688 -> 192.168.1.9:80
+01/04/2025-14:55:06.299899  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32696 -> 192.168.1.9:80
+01/04/2025-14:55:06.299899  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32696 -> 192.168.1.9:80
+01/04/2025-14:55:07.262896  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32735 -> 192.168.1.9:80
+01/04/2025-14:55:07.262896  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32735 -> 192.168.1.9:80
+01/04/2025-14:55:07.285987  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32736 -> 192.168.1.9:80
+01/04/2025-14:55:07.285987  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32736 -> 192.168.1.9:80
+01/04/2025-14:55:08.206261  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32775 -> 192.168.1.9:80
+01/04/2025-14:55:08.206261  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32775 -> 192.168.1.9:80
+01/04/2025-14:55:08.442861  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32785 -> 192.168.1.9:80
+01/04/2025-14:55:08.442861  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32785 -> 192.168.1.9:80
+01/04/2025-14:55:09.353210  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32824 -> 192.168.1.9:80
+01/04/2025-14:55:09.353210  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32824 -> 192.168.1.9:80
+01/04/2025-14:55:09.376809  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32825 -> 192.168.1.9:80
+01/04/2025-14:55:09.376809  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32825 -> 192.168.1.9:80
+01/04/2025-14:55:10.220670  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32861 -> 192.168.1.9:80
+01/04/2025-14:55:10.220670  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32861 -> 192.168.1.9:80
+01/04/2025-14:55:10.520270  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32874 -> 192.168.1.9:80
+01/04/2025-14:55:10.520270  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32874 -> 192.168.1.9:80
+01/04/2025-14:55:11.432341  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32913 -> 192.168.1.9:80
+01/04/2025-14:55:11.432341  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32913 -> 192.168.1.9:80
+01/04/2025-14:55:11.503483  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32916 -> 192.168.1.9:80
+01/04/2025-14:55:11.503483  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32916 -> 192.168.1.9:80
+01/04/2025-14:55:12.471803  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32956 -> 192.168.1.9:80
+01/04/2025-14:55:12.471803  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32956 -> 192.168.1.9:80
+01/04/2025-14:55:12.519473  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32958 -> 192.168.1.9:80
+01/04/2025-14:55:12.519473  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32958 -> 192.168.1.9:80
+01/04/2025-14:55:13.246189  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32989 -> 192.168.1.9:80
+01/04/2025-14:55:13.246189  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:32989 -> 192.168.1.9:80
+01/04/2025-14:55:13.578153  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33003 -> 192.168.1.9:80
+01/04/2025-14:55:13.578153  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33003 -> 192.168.1.9:80
+01/04/2025-14:55:14.487768  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33042 -> 192.168.1.9:80
+01/04/2025-14:55:14.487768  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33042 -> 192.168.1.9:80
+01/04/2025-14:55:14.606550  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33047 -> 192.168.1.9:80
+01/04/2025-14:55:14.606550  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33047 -> 192.168.1.9:80
+01/04/2025-14:55:15.423442  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33082 -> 192.168.1.9:80
+01/04/2025-14:55:15.423442  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33082 -> 192.168.1.9:80
+01/04/2025-14:55:15.769025  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33097 -> 192.168.1.9:80
+01/04/2025-14:55:15.769025  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33097 -> 192.168.1.9:80
+01/04/2025-14:55:16.400197  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33124 -> 192.168.1.9:80
+01/04/2025-14:55:16.400197  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33124 -> 192.168.1.9:80
+01/04/2025-14:55:16.779870  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33140 -> 192.168.1.9:80
+01/04/2025-14:55:16.779870  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33140 -> 192.168.1.9:80
+01/04/2025-14:55:17.571988  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33174 -> 192.168.1.9:80
+01/04/2025-14:55:17.571988  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33174 -> 192.168.1.9:80
+01/04/2025-14:55:17.760707  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33182 -> 192.168.1.9:80
+01/04/2025-14:55:17.760707  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33182 -> 192.168.1.9:80
+01/04/2025-14:55:18.371078  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33208 -> 192.168.1.9:80
+01/04/2025-14:55:18.371078  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33208 -> 192.168.1.9:80
+01/04/2025-14:55:18.844947  [wDrop] [**] [1:3000001:1] Possible Port Scanning : Memblokir request [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33228 -> 192.168.1.9:80
+01/04/2025-14:55:18.844947  [**] [1:1000001:1] Possible Port Scanning [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33228 -> 192.168.1.9:80
+01/04/2025-14:55:21.502085  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33243 -> 192.168.1.9:80
+01/04/2025-14:55:22.202356  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33243 -> 192.168.1.9:80
+01/04/2025-14:55:22.614625  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33244 -> 192.168.1.9:80
+01/04/2025-14:55:23.137312  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33244 -> 192.168.1.9:80
+01/04/2025-14:55:23.591620  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33244 -> 192.168.1.9:80
+01/04/2025-14:55:23.812394  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33244 -> 192.168.1.9:80
+01/04/2025-14:55:23.998915  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33244 -> 192.168.1.9:80
+01/04/2025-14:55:24.216506  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33244 -> 192.168.1.9:80
+01/04/2025-14:55:24.584994  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33244 -> 192.168.1.9:80
+01/04/2025-14:55:24.772946  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33244 -> 192.168.1.9:80
+01/04/2025-14:55:24.985586  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33244 -> 192.168.1.9:80
+01/04/2025-14:55:25.154287  [**] [1:200003:1] Potensi SQL INJECTION : KOMEN SQL  [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.5:33244 -> 192.168.1.9:80

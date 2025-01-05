@@ -1,0 +1,22 @@
+#Rule untuk mendeteksi ancaman port scanning
+alert tcp any any -> any any (msg : "Possible Port Scanning"; flags : S; threshold:type both, track by_src, count 10, seconds 1; sid : 1000001; rev : 1;)
+
+#Block akses port scanning
+drop tcp any any -> any any (msg : "Possible Port Scanning : Memblokir request"; flags : S; threshold:type both, track by_src, count 10, seconds 1; sid : 3000001; rev : 1;)
+
+#Rule untuk mendeteksi ancaman port scanning
+alert udp any any -> any any (msg : "Possible Port Scanning";  threshold:type both, track by_src, count 10, seconds 1; sid : 1000002; rev : 1;)
+
+#Block akses port scanning
+drop udp any any -> any any (msg : "Possible Port Scanning : Memblokir request";  threshold:type both, track by_src, count 10, seconds 1; sid : 3000002; rev : 1;)
+
+drop http any any -> any any (msg : "Potensi SQL INJECTION : UNION Select ";  content : "UNION SELECT" ; http_uri ; nocase; sid : 200001; rev:1;)
+
+drop http any any -> any any (msg : "Potensi SQL INJECTION : OPERATOR SQL ";  content : "' OR '1'='1" ; http_uri ; nocase; sid : 200002; rev:1;)
+
+drop http any any -> any any (msg : "Potensi SQL INJECTION : KOMEN SQL ";  content : "--" ; http_uri ; nocase; sid : 200003; rev:1;)
+
+drop http any any -> any any (msg : "Potensi SQL INJECTION : KOMEN SQL ";  content : "select" ; nocase; pcre : "/(\%27)|(\')|(\-\-)|(\%23)|(#)|(\%3D)|(\=)/i" ; flow:to_server,established; classtype:web-application-attack;sid : 200004; rev:1;)
+
+drop http any any -> any any (msg : "Potensi SQL INJECTION UNION Memblokir permintaan.. : KOMEN SQL ";  content : "union"; pcre : "/select.*from/i" ;flow:to_server,established; classtype:web-application-attack; sid : 200005; rev:1;)
+
